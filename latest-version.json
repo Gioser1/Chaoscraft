@@ -1,0 +1,12 @@
+{
+  "version": "0.22.1",
+  "patchId": "v022-patch-overlays-sequences-qty",
+  "title": "ChaosCraft v0.22.1 (Parche Overlays, Secuencias & Jefes) — Menús Desplegables, Cantidad y Títulos",
+  "publishedAt": "2026-11-16",
+  "downloadUrl": "https://raw.githubusercontent.com/Gioser1/Chaoscraft/main/chaoscraft-ota-update.zip",
+  "notes": [
+    "Parche v0.22.1 (Secuencias, Cantidad, Overlays y Regalos): 1) Menús desplegables completos (Categoría, Tipo de Acción y Selector de Mobs/Jefes/Trampas/Kits/Objetos) en los pasos de Secuencia Encadenada sin tener que escribir IDs; 2) Campo de Cantidad ampliado con botones (− / +) sin flechas que tapen el número; 3) Corrección de 'SPEED' en Eventos Aleatorios y Trampas (Boxing Gloves → Borrar Inventario) y edición de títulos en el Overlay.",
+    "Módulo A (Mejoras de Jefes): Horario nocturno automático e inmunidad al sol con restauración al morir todos; balance moderado de vida/armadura/resistencia en los 15 jefes; Bombardero Kamikaze lanzando proyectiles reales de TNT activada.",
+    "Módulo B (Texturas Personalizadas de Jefes): Interruptor opcional ON/OFF 'Texturas personalizadas de jefes' con advertencia de rendimiento en la creación del servidor."
+  ]
+}
